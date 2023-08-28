@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const diceResult = document.getElementById('diceResult');
+    const diceResult = document.getElementById('rollResult');
     const rollResult = document.getElementById('rollButton');
 
     rollButton.addEventListener('click', () => {
